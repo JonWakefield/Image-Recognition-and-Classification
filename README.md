@@ -14,7 +14,7 @@ This repository contains the code used to create an animal recognition and class
 
 ## Features:
 
-- OpenCV is used to detect animals
+- OpenCV detect nearby animals 
 - Images are cropped and downsampled
 - Image is fed into a trained CNN to proper identify the animal species
 - Camper is notified of invasive animal
